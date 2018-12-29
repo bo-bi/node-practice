@@ -1,0 +1,24 @@
+{
+  "name": "koa_server",
+  "version": "0.1.0",
+  "description": "simplae koa server for hosting posts by web users",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "koa",
+    "demo"
+  ],
+  "author": "wh",
+  "license": "MIT",
+  "dependencies": {
+    "koa": "^2.6.2"
+  },
+  "devDependencies": {
+    "koa-body": "^4.0.6",
+    "koa-router": "^7.4.0",
+    "pg": "^7.7.1",
+    "sequelize": "^4.42.0"
+  }
+}
